@@ -217,7 +217,7 @@ body {
 .spin-cone:hover {
     transition: width 2s, height 2s, transform 2s;
     transform: rotate(360deg);
-      animation-iteration-count: infinite;
+    
     
 }
 
@@ -249,3 +249,11 @@ body {
 }
 
 /**end of bio css **/
+
+
+
+.video {
+    height:150px;
+    width:100%;
+    margin:0 auto;
+}
